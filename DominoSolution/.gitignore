@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+*.dll
+*.exe
+
+**/CopilotIndices*/
+**/CopilotSnapshots*/
+
+
+Thumbs.db
+.DS_Store
+
+*.db
+*.opendb
